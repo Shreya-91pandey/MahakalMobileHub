@@ -7,7 +7,7 @@
     <application
         android:allowBackup="true"
         android:label="Mahakal Mobile Hub"
-        android:theme="@style/Theme.MahakalMobileHub">
+        android:theme="@android:style/Theme.Material.Light">
         
         <activity
             android:name=".ui.MainActivity"
